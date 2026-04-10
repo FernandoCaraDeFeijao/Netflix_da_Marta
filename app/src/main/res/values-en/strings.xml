@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="assistir">Watch</string>
+    <string name="detalhes">DETAILS</string>
+    <string name="minha_lista">MY LIST</string>
+    <string name="cativante">CAPTIVANTING</string>
+    <string name="brutal">Brutal</string>
+    <string name="magistral">Masterful</string>
+    <string name="filmes">films</string>
+    <string name="minha_lista_head">My List</string>
+    <string name="series">Series</string>
+    <string name="lancamento">Releases</string>
+</resources>

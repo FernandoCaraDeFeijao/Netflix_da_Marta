@@ -3,4 +3,11 @@
     <string name="assistir">Assistir</string>
     <string name="detalhes">DETALHES</string>
     <string name="minha_lista">MINHA LISTA</string>
+    <string name="cativante">Cativante</string>
+    <string name="brutal">Brutal</string>
+    <string name="magistral">Magistral</string>
+    <string name="filmes">Filmes</string>
+    <string name="minha_lista_head">Minha Lista</string>
+    <string name="series">Séries</string>
+    <string name="lancamento">Lançamento</string>
 </resources>
