@@ -10,5 +10,5 @@
     <string name="minha_lista_head">Minha Lista</string>
     <string name="series">Séries</string>
     <string name="lancamento">Lançamento</string>
-    <string name="fernando_ferrari_barbosa">FERNANDO FERRARI BARBOSA</string>
+    <string name="fernando_ferrari_barbosa" translatable="false">FERNANDO FERRARI BARBOSA</string>
 </resources>
