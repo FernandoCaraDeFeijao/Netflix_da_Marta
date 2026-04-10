@@ -39,41 +39,42 @@
     <TextView
         android:id="@+id/cativante"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="22dp"
         android:text="@string/cativante"
         android:textColor="@color/branco"
         android:textSize="14sp"
         app:layout_constraintBottom_toBottomOf="@+id/brutal"
         app:layout_constraintEnd_toEndOf="@id/verticaldireita"
         app:layout_constraintHorizontal_bias="0.5"
+        android:textAlignment="center"
         app:layout_constraintStart_toEndOf="@+id/brutal"
         app:layout_constraintTop_toTopOf="@+id/brutal" />
 
     <TextView
         android:id="@+id/brutal"
-        android:layout_width="50dp"
+        android:layout_width="wrap_content"
         android:layout_height="22dp"
-        android:layout_margin="2dp"
-        android:padding="2dp"
+        android:layout_marginTop="12dp"
         android:text="@string/brutal"
         android:textColor="@color/branco"
         android:textSize="14sp"
+        android:textAlignment="center"
         app:layout_constraintEnd_toStartOf="@+id/cativante"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/magistral"
-        tools:layout_editor_absoluteY="185dp"
-        app:layout_constraintTop_toBottomOf="@id/horizontalterceira"/>
+        app:layout_constraintTop_toBottomOf="@+id/logofilme" />
 
     <TextView
         android:id="@+id/magistral"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="22dp"
         android:text="@string/magistral"
         android:textColor="@color/branco"
         android:textSize="14sp"
         app:layout_constraintBottom_toBottomOf="@+id/brutal"
         app:layout_constraintEnd_toStartOf="@+id/brutal"
         app:layout_constraintHorizontal_bias="0.5"
+        android:textAlignment="center"
         app:layout_constraintHorizontal_chainStyle="spread"
         app:layout_constraintStart_toStartOf="@id/verticalesquerda"
         app:layout_constraintTop_toTopOf="@+id/brutal" />
